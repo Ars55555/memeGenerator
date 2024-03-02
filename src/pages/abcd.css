@@ -1,0 +1,8 @@
+.fk{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-style: solid;
+    margin-left: 200px;
+    margin-right: 200px;
+}
